@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "253197499224",
+    "project_id": "onesignal-android-4b546",
+    "storage_bucket": "onesignal-android-4b546.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253197499224:android:ddb5e1de17e2850aa5032d",
+        "android_client_info": {
+          "package_name": "com.amto_dev.uso_notificaciones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253197499224-5j417ogbjb9elvpipuaf6c39ls11ocvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD10IqhW50eogM9N9yZjfZ3LgWX3o9e4gI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253197499224-5j417ogbjb9elvpipuaf6c39ls11ocvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
